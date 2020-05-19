@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VladimirsUplift.Utility": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "VladimirsKey": "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"
+      }
+    }
+  }
+}
